@@ -14,3 +14,4 @@ nginx.conf
 # Ignore Drupal's file directory
 /web/sites/*/files/
 
+/web/
